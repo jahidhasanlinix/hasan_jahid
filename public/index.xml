@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Portfolio on Jahid Hasan</title>
+    <link>https://jahidhasanlinix.github.io/hasan_jahid/</link>
+    <description>Recent content in Personal Portfolio on Jahid Hasan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jahidhasanlinix.github.io/hasan_jahid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jahidhasanlinix.github.io/hasan_jahid/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jahidhasanlinix.github.io/hasan_jahid/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     Website: https://sites.google.com/view/hasanjahid/   Twitter: https://twitter.com/jhasanofficial   LinkedIn: https://www.linkedin.com/in/jhasanofficial/   GitHub: https://github.com/jahidhasanlinix   BitBucket: https://bitbucket.org/hasan_jahid/   GoogleScholar: https://scholar.google.com/citations?user=l-ONe1oAAAAJ&amp;amp;hl=en    </description>
+    </item>
+    
+    <item>
+      <title>Project 1: Breast Cancer Prediction Using Machine Learning</title>
+      <link>https://jahidhasanlinix.github.io/hasan_jahid/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jahidhasanlinix.github.io/hasan_jahid/post/project-1/</guid>
+      <description>Study the dataset of breast cancer. Analysis the prediction of the test data. Predict target variable data. Compare the performance of the models by using Logistic Regression, Decision Tree Classifier, Random Forest Calssifier, Support Vector Classifier.    Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Streamlit web app for stock price analysis.</title>
+      <link>https://jahidhasanlinix.github.io/hasan_jahid/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jahidhasanlinix.github.io/hasan_jahid/post/project-2/</guid>
+      <description>Stock price analysis web app using Streamlit library. Stock price analysis of Tesla, Inc.    Link to Github repository</description>
+    </item>
+    
+  </channel>
+</rss>

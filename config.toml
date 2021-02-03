@@ -1,0 +1,31 @@
+title = "Jahid Hasan"
+baseURL = "https://jahidhasanlinix.github.io/hasan_jahid/"
+languageCode = "en-us"
+theme = "ananke"
+#themesDir = "../.."
+
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "UA-181067368-1"
+enableRobotsTXT = true
+canonifyURLs = true
+
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  description = "The last theme you'll ever need. Maybe."
+  twitter = "https://twitter.com/jhasanofficial"
+  github = "https://github.com/jahidhasanlinix"
+  linkedin = "https://www.linkedin.com/in/jhasanofficial/"
+ 
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
